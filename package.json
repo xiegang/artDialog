@@ -1,5 +1,6 @@
 {
-    "name": "artDialog",
+    "family": "art",
+    "name": "dialog",
     "version": "6.0.1",
     "readmeFilename": "README.md",
     "description": "经典的网页对话框组件，内外皆用心雕琢",
@@ -16,7 +17,15 @@
     "dependencies": {
         "jquery": "~1.9.0"
     },
-    "license": "LGPL"
+    "license": "LGPL",
+    "spm": {
+        "output": [
+            "dialog.js",
+            "dialog-plus.js",
+            "dialog.css"
+        ],
+        "engines": {}
+    }
 }
         
         
