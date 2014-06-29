@@ -45,10 +45,10 @@ define({
     cancel: null,
 
     // 确定按钮文本
-    okValue: 'ok',
+    okValue: '确定',
     
     // 取消按钮文本
-    cancelValue: 'cancel',
+    cancelValue: '关闭',
     
     // 内容宽度
     width: '',
