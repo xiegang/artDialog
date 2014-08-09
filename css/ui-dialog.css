@@ -11,11 +11,8 @@
     _float: left;
     position: relative;
     background-color: #FFF;
-    border: 1px solid #CCC;
     outline: 0;
     background-clip: padding-box;
-    font-family: Helvetica, arial, sans-serif;
-    font-size: 14px;
     line-height: 1.428571429;
     color: #333;
     opacity: 0;
@@ -107,7 +104,6 @@
     margin-right: 20px;
     padding: 6px 0;
     line-height: 1.428571429;
-    font-size: 14px;
     color: #888;
     white-space: nowrap;
 }
@@ -133,7 +129,6 @@
     padding: 4px 12px;
     _margin-left: 5px;
     margin-bottom: 0;
-    font-size: 14px;
     font-weight: normal;
     line-height: 1.428571429;
     text-align: center;
