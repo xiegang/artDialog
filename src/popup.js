@@ -126,7 +126,7 @@ $.extend(Popup.prototype, {
     backdropBackground: '#000',
 
     /** 设置遮罩透明度 */
-    backdropOpacity: 0.7,
+    backdropOpacity: 0.3,
 
     /** 内部的 HTML 字符串 */
     innerHTML: '',
